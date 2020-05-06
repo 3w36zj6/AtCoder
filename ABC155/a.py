@@ -1,6 +1,2 @@
-L = map(int,input().split(" "))
-
-if len(set(L)) == 2:
-    print("Yes")
-else:
-    print("No")
+ans = "Yes" if len(set(input().split())) == 2 else "No"
+print(ans)
