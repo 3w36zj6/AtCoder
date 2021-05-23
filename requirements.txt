@@ -1,9 +1,14 @@
+ac-library-python @ git+https://github.com/not522/ac-library-python@ae9bf72b671fa7a6ce5aa159a5d171f9ff5679cb
+autopep8==1.5.4
 decorator==4.4.2
 joblib==1.0.0
 llvmlite==0.35.0
 networkx==2.5
 numba==0.52.0
 numpy==1.19.5
+pycodestyle==2.6.0
+pyreadline==2.1
 scikit-learn==0.24.1
 scipy==1.6.0
 threadpoolctl==2.1.0
+toml==0.10.2
